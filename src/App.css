@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.buttonsPlace {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

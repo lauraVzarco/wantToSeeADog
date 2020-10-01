@@ -1,0 +1,19 @@
+.button {
+  display: inline-block;
+  padding: 3px 23px;
+  margin: 30px 20px;
+  border: 3px solid #cccccc;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Segoe UI", sans-serif;
+  font-size: medium;
+  font-weight: 400;
+  color: #000000;
+  background-color: #cccccc;
+  text-align: center;
+  position: relative;
+}
+
+.button:hover {
+  border-color: #7a7a7a;
+}
